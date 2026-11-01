@@ -50,3 +50,61 @@ When we can explain an idea, recognise mistakes, make informed decisions, and gr
 As we use AI this week, we can pay attention to that boundary without rejecting the assistance itself. Tomorrow, we will examine the process behind an AI-assisted result and identify what we need to understand if we want the capability to remain with us.
 
 *Learn • Think • Verify • Adapt*
+
+
+🌅 TUESDAY MORNING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 01 – Turning AI Assistance into Lasting Capability*
+
+*Chapter 02 – Understanding the Process Behind the Output*
+
+*Understanding*
+
+When AI gives us a useful answer, it is easy to focus on the result: the analysis is complete, the code works, or the document is ready. But if our goal is learning, the final output is only one part of the experience. We also need to understand the process that produced it.
+
+Suppose AI helps us analyse a dataset. Receiving the final numbers may help us finish the task, but learning requires us to understand what was calculated, why a particular method was used, what assumptions were made, and how the result should be interpreted. By examining these steps, we begin turning an assisted result into knowledge we can use again.
+
+*Practice*
+
+Choose one useful result that AI helps you produce today. Before accepting it as complete, identify the main steps behind the result.
+
+Ask: What information went in? What method was used? What decisions shaped the result? Why does the conclusion follow from the process? If one of these questions is difficult to answer, use AI as a learning partner: ask it to explain that part clearly, then restate the explanation in your own words.
+
+*Looking Ahead*
+
+Understanding the process gives us more than a finished result. It gives us something we can question, examine, and eventually reproduce.
+
+Tomorrow, we will take the next step by examining and verifying the reasoning instead of assuming that a clear explanation must also be correct.
+
+*Learn • Think • Verify • Adapt*
+
+
+🌙 TUESDAY EVENING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 01 – Turning AI Assistance into Lasting Capability*
+
+*Chapter 02 – Understanding the Process Behind the Output*
+
+*Looking Back*
+
+Today, we looked beneath the final output. A completed task can show us what AI helped us achieve, but examining the process helps us see how that result was reached.
+
+This changes the way we use assistance. Instead of treating AI as a system that simply gives us finished work, we can use it to expose the steps, concepts, assumptions, and decisions involved. Those details give us opportunities to build our own understanding.
+
+*Thinking Together*
+
+There is an important difference between reading an explanation and understanding it. An explanation may appear clear while we are looking at it, yet become difficult to reconstruct once it disappears.
+
+A useful test is to close the explanation and describe the process ourselves. Where did we begin? What happened next? Why was that step necessary? If we cannot reconstruct an important part, we have discovered something valuable: not a failure, but a specific gap that still needs learning.
+
+*Moving Forward*
+
+Tomorrow, we will go beyond understanding what process was followed. We will examine whether the reasoning within that process deserves our trust.
+
+That shift matters because independent capability requires more than knowing the steps. We also need to judge whether those steps make sense.
+
+*Learn • Think • Verify • Adapt*
