@@ -132,13 +132,6 @@ Saturday Morning normally uses:
 - `*Self-Assessment*`
 - `*Looking Ahead*`
 
-Saturday Evening normally uses:
-
-- `*Module Review & Self-Assessment*`
-- `*Looking Back*`
-- `*Thinking Together*`
-- `*Moving Forward*`
-
 The exact curriculum context must remain consistent with the approved week.
 
 ## 12. WhatsApp-ready text format
