@@ -24,7 +24,7 @@ Technology may provide context, evidence, or examples, but the curriculum should
 
 The required sequence is:
 
-`Weekly Intelligence -> repository inspection -> curriculum comparison -> Learning Path / Module / Chapter proposal -> human review -> day-specific content -> human review -> append approved content -> final weekly text file`
+`Weekly Intelligence -> repository inspection -> curriculum comparison -> Learning Path / Module / six-Chapter proposal -> human review -> day-specific content -> human review -> append approved content -> final weekly text file`
 
 Human approval is required at both the curriculum-structure stage and the day-specific content stage. ChatGPT must stop at each gate instead of silently continuing.
 
@@ -42,7 +42,11 @@ At this stage the output is limited to:
 
 - Learning Path name;
 - Module name;
-- Chapter names.
+- exactly six Chapter names.
+
+From Weekly Intelligence 016 onward, every weekly curriculum proposal must derive six distinct Chapters from the supplied Weekly Intelligence. The six Chapters must form a coherent progression within the approved Module. They must not be filler, artificial subdivisions, or repetitions created only to satisfy the required count.
+
+If the Weekly Intelligence does not contain enough durable learning substance to support six meaningful Chapters without lowering the curriculum standard, ChatGPT must stop and identify that conflict for human review rather than invent weak Chapters.
 
 Do not generate morning content, evening content, exercises, explanations, or the weekly text file at this stage.
 
@@ -51,34 +55,35 @@ Do not generate morning content, evening content, exercises, explanations, or th
 Before presenting a proposal, check:
 
 - Durability: does it develop a lasting human capability rather than merely describe this week's technology or news?
-- Hierarchy: do the Chapters belong to the Module, and does the Module belong to the Learning Path?
-- Progression: do the Chapters build naturally rather than repeat one another?
+- Hierarchy: do the six Chapters belong to the Module, and does the Module belong to the Learning Path?
+- Progression: do the six Chapters build naturally rather than repeat one another?
+- Distinctness: does each of the six Chapters have its own meaningful learning responsibility?
 - Human meaning: is the capability people should strengthen clear?
-- Grounding: can the proposal be traced back to the Weekly Intelligence?
+- Grounding: can every Chapter be traced back to the Weekly Intelligence?
 - Existing curriculum: does the proposal avoid unnecessary duplication?
 - Pillars: does it meaningfully support Learn, Think, Verify, or Adapt?
 
-Do not manufacture a new Learning Path, Module, or fixed number of Chapters when the Weekly Intelligence does not justify them.
+The six-Chapter requirement must never be used to justify weak, duplicated, or unsupported curriculum. If six meaningful Chapters cannot be derived while satisfying these checks, stop for human review.
 
 ## 7. Gate A - Human curriculum approval
 
-After presenting the Learning Path, Module, and Chapter names, stop.
+After presenting the Learning Path, Module, and six Chapter names, stop.
 
 The human may approve, reject, or request changes. No day-specific learning content may be generated until the curriculum structure is approved.
 
-Once approved, the Learning Path, Module, and Chapter names become the working structure for that weekly authoring cycle unless the human explicitly reopens the decision.
+Once approved, the Learning Path, Module, and six Chapter names become the working structure for that weekly authoring cycle unless the human explicitly reopens the decision.
 
 ## 8. Stage C - Generate one day at a time
 
 After curriculum approval, generate only the requested day's content. Start with Monday Morning and Monday Evening unless the human explicitly requests another approved day.
 
-Do not generate Tuesday or later days automatically. Each day has its own human review gate.
+Do not generate later days automatically. Each day has its own human review gate.
 
-Monday through Friday normally map to the approved Chapter progression. Saturday is a review and integration day rather than an additional ordinary Chapter.
+Monday through Saturday map in order to the six approved Chapters: Monday uses Chapter 01, Tuesday Chapter 02, Wednesday Chapter 03, Thursday Chapter 04, Friday Chapter 05, and Saturday Chapter 06.
 
 ## 9. Morning content structure
 
-For Monday through Friday, morning content uses this order:
+For Monday through Saturday, morning content uses this order:
 
 `🌅 <DAY> MORNING`
 
@@ -100,7 +105,7 @@ The content itself must follow `communication-style.md`.
 
 ## 10. Evening content structure
 
-For Monday through Friday, evening content uses this order:
+For Monday through Saturday, evening content uses this order:
 
 `🌙 <DAY> EVENING`
 
@@ -120,19 +125,11 @@ For Monday through Friday, evening content uses this order:
 
 Evening content must add reflection and meaning rather than simply repeat the morning message.
 
-## 11. Saturday review structure
+## 11. Saturday chapter and weekly integration
 
-Saturday is the weekly or module review and self-assessment stage. It must not be presented as an ordinary additional Chapter merely to maintain a daily sequence.
+Saturday uses Chapter 06 of the approved six-Chapter progression. Its learning content should complete the week's progression while also helping us connect and integrate the ideas developed across the week.
 
-Saturday Morning normally uses:
-
-- `*Module Review & Self-Assessment*`
-- `*Looking Back*`
-- `*Three Key Ideas*`
-- `*Self-Assessment*`
-- `*Looking Ahead*`
-
-The exact curriculum context must remain consistent with the approved week.
+Saturday must remain grounded in its approved Chapter rather than becoming an unrelated extra topic. Its role as the sixth Chapter does not remove the need for weekly reflection and integration where those elements naturally support the Chapter.
 
 ## 12. WhatsApp-ready text format
 
@@ -178,4 +175,4 @@ The final file must contain only the approved daily content in the approved orde
 
 ChatGPT assists with analysis, curriculum proposals, writing, consistency checks, and formatting. It does not replace human curriculum approval.
 
-The human remains the authority for approving Learning Path, Module, and Chapter names and for approving every day's Morning and Evening content before it becomes part of the weekly artifact.
+The human remains the authority for approving Learning Path, Module, and all six Chapter names and for approving every day's Morning and Evening content before it becomes part of the weekly artifact.
