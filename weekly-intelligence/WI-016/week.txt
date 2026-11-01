@@ -168,3 +168,61 @@ AI can help us reach unfamiliar territory quickly. Our responsibility is to avoi
 Tomorrow, we will begin deliberate practice: using what we have understood and verified repeatedly enough that the capability starts moving from external assistance into our own knowledge and judgment.
 
 *Learn • Think • Verify • Adapt*
+
+
+🌅 THURSDAY MORNING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 01 – Turning AI Assistance into Lasting Capability*
+
+*Chapter 04 – Building Understanding Through Deliberate Practice*
+
+*Understanding*
+
+Understanding an AI-assisted process once does not necessarily mean we can use that knowledge later. Lasting capability develops when we actively work with what we have learned: recalling it, applying it, making mistakes, correcting those mistakes, and practising again.
+
+This is where AI can play a different role. Instead of repeatedly completing the task for us, it can help us practise the parts we are still learning. We can ask for a similar problem, attempt it ourselves, compare our approach, request feedback, and then try again. The objective gradually shifts from getting AI to produce the result to strengthening our ability to produce and understand it.
+
+*Practice*
+
+Choose one process or concept you explored with AI earlier this week. Ask for a new but similar task, then attempt as much of it as possible before requesting assistance.
+
+When you become uncertain, identify the exact point where your understanding stops. Ask for help with that specific gap rather than handing the entire task back to AI. After understanding the explanation, continue the task yourself. This makes assistance part of the practice instead of a substitute for it.
+
+*Looking Ahead*
+
+Deliberate practice helps knowledge become easier to recall and apply, but assistance may still be supporting parts of the process.
+
+Tomorrow, we will reduce that support further. We will attempt to reproduce a task without AI assistance and discover which parts of the capability have genuinely begun to become our own.
+
+*Learn • Think • Verify • Adapt*
+
+
+🌙 THURSDAY EVENING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 01 – Turning AI Assistance into Lasting Capability*
+
+*Chapter 04 – Building Understanding Through Deliberate Practice*
+
+*Looking Back*
+
+Today, we changed the role of AI from primarily producing an answer to supporting our practice. That change is important because learning requires something from us that observing a good result cannot provide: the effort of recalling, deciding, applying, and correcting.
+
+When we attempt a task before asking for help, gaps in our understanding become visible. Instead of hiding those gaps behind a completed AI output, we can work on them directly.
+
+*Thinking Together*
+
+Effective practice does not require us to reject assistance completely. The important question is how the assistance is being used.
+
+If AI immediately solves every difficult step, we may continue performing without strengthening the knowledge behind the performance. If we first attempt the work, identify where we are stuck, use assistance to understand that specific difficulty, and then continue ourselves, the same technology can support a very different learning process.
+
+*Moving Forward*
+
+Practice gives us evidence that our understanding is developing, but tomorrow we will make the test harder.
+
+We will remove the assistance temporarily and try to reproduce the task ourselves. What we can still explain, decide, and perform when AI is absent will give us a clearer picture of what we have actually learned.
+
+*Learn • Think • Verify • Adapt*
