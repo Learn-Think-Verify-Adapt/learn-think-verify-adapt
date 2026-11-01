@@ -171,6 +171,22 @@ After Saturday is approved and appended, the weekly `.txt` file becomes the comp
 
 The final file must contain only the approved daily content in the approved order and format. Do not rebuild the file from memory when the already approved artifact can be extended directly.
 
+### Mandatory weekly artifact filename
+
+From Weekly Intelligence 016 onward, the weekly curriculum text artifact must use only the exact Monday-to-Saturday date range as its filename.
+
+Required format:
+
+`DD Mon YYYY - DD Mon YYYY.txt`
+
+Example for Weekly Intelligence 016:
+
+`WI-016/02 Nov 2026 - 07 Nov 2026.txt`
+
+Within each `WI-XXX` directory, do not create or retain a generic weekly curriculum filename such as `week.txt`, `weekly.txt`, `final.txt`, or another alias for the same approved weekly artifact. The date-range `.txt` file is the single authoritative weekly curriculum artifact.
+
+The first date must be that curriculum week's Monday and the second date must be its Saturday. Use two-digit day numbers, three-letter English month names, four-digit years, spaces around the hyphen, and the lowercase `.txt` extension exactly as shown.
+
 ## 16. Human authority
 
 ChatGPT assists with analysis, curriculum proposals, writing, consistency checks, and formatting. It does not replace human curriculum approval.
