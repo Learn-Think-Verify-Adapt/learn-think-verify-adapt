@@ -108,3 +108,63 @@ Tomorrow, we will go beyond understanding what process was followed. We will exa
 That shift matters because independent capability requires more than knowing the steps. We also need to judge whether those steps make sense.
 
 *Learn • Think • Verify • Adapt*
+
+
+🌅 WEDNESDAY MORNING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 01 – Turning AI Assistance into Lasting Capability*
+
+*Chapter 03 – Examining and Verifying the Reasoning*
+
+*Understanding*
+
+Understanding how AI reached an answer is important, but understanding the steps does not automatically make those steps correct. AI can produce explanations that sound clear and convincing while containing weak assumptions, incorrect calculations, missing evidence, or reasoning that does not fully support the conclusion.
+
+Learning therefore requires us to do more than follow an explanation. We need to examine it. What evidence supports the conclusion? Do the calculations make sense? Are important assumptions being made? Could another explanation fit the same information? Verification turns us from recipients of an answer into active participants in judging it.
+
+*Practice*
+
+Take one AI-assisted answer that matters to you today and choose one important claim or reasoning step within it. Do not ask AI merely whether its own answer is correct.
+
+Check that step independently. Recalculate a number, consult the original source, compare another reliable reference, or work through the reasoning yourself. Then identify whether the evidence supports the conclusion, contradicts it, or leaves some uncertainty.
+
+The purpose is not to distrust every AI response. It is to practise knowing why we trust a result.
+
+*Looking Ahead*
+
+When we examine reasoning instead of simply accepting it, we strengthen both understanding and judgment. We begin to recognise which parts of an assisted process we genuinely understand and which parts still depend on someone or something else doing the thinking for us.
+
+Tomorrow, we will use that understanding differently: through deliberate practice designed to make more of the capability our own.
+
+*Learn • Think • Verify • Adapt*
+
+
+🌙 WEDNESDAY EVENING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 01 – Turning AI Assistance into Lasting Capability*
+
+*Chapter 03 – Examining and Verifying the Reasoning*
+
+*Looking Back*
+
+Today, we moved from understanding an AI-assisted process to evaluating whether its reasoning deserves our confidence. That difference matters because a convincing explanation and a verified explanation are not the same thing.
+
+Verification asks us to participate. We compare claims with evidence, test calculations, question assumptions, and recognise uncertainty where certainty is not justified. These actions develop judgment that remains useful beyond a single AI interaction.
+
+*Thinking Together*
+
+There is also a learning benefit hidden inside verification. When we try to check a reasoning step ourselves, we quickly discover what we genuinely understand.
+
+If we can explain why a conclusion follows from the evidence, identify what could make it wrong, and independently check the important parts, our understanding is becoming stronger. If we cannot, the gap becomes visible. That gap tells us where further learning or practice is needed.
+
+*Moving Forward*
+
+AI can help us reach unfamiliar territory quickly. Our responsibility is to avoid confusing that reach with mastery.
+
+Tomorrow, we will begin deliberate practice: using what we have understood and verified repeatedly enough that the capability starts moving from external assistance into our own knowledge and judgment.
+
+*Learn • Think • Verify • Adapt*
