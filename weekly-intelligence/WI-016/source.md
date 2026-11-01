@@ -111,5 +111,4 @@ Anthropic. *Early progress on accelerating drug development with Claude.* 2026.\
 Behrouz, Ali, and Vahab Mirrokni. *The sleep framework: A new way for LLMs to retain knowledge in continual learning.* Google Research, 2026.\
 [https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/](https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/)
 
-AI PROOF
 Learn • Think • Verify • Adapt
