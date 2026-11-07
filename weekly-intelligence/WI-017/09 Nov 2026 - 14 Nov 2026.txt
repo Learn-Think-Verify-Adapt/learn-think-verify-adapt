@@ -62,3 +62,71 @@ Before accepting a finished result, we can ask whether it fulfils the original p
 Tomorrow, we will develop this judgment further by learning to define what success should look like before the work begins.
 
 *Learn • Think • Verify • Adapt*
+
+
+🌅 TUESDAY MORNING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 02 – Judging Whether Work Has Truly Been Completed*
+
+*Chapter 02 – Defining What Success Should Look Like*
+
+*Understanding*
+
+Yesterday, we explored why completing a task is not always the same as achieving its intended outcome. Today, we take the next step: understanding what success should look like before the work begins.
+
+When we ask someone or an AI system to complete a task, we often describe the activity we want performed. We may ask for a report, a comparison, a plan, or a solution. But the instruction alone may not explain what would make the result genuinely useful.
+
+Consider asking AI to prepare a study plan. A timetable containing subjects and study hours may appear complete. Yet if the learner has limited time, struggles with particular concepts, or needs to prepare for a specific examination, a generic timetable may not achieve the intended purpose. Defining success means understanding those needs before deciding what a good result should contain.
+
+*Practice*
+
+Choose one task you intend to complete today, either independently or with AI assistance.
+
+Before beginning, write one sentence explaining what you actually want to achieve. Then ask yourself: Who is this result for? What need should it satisfy? What would be different if the task were genuinely successful?
+
+Try to describe success without simply naming the output. Instead of saying, “I need a completed study plan,” you might say, “I need a realistic plan that helps me prepare for my examination within the time available.”
+
+Notice how the second description gives you a clearer purpose against which the completed work can later be judged.
+
+*Looking Ahead*
+
+When we define success before starting, we give ourselves a better way to recognise whether the work has achieved its purpose.
+
+But understanding the goal is only the beginning. Tomorrow, we will examine how to turn that goal into clear requirements and acceptance criteria, so that important expectations are not overlooked when the work is carried out.
+
+*Learn • Think • Verify • Adapt*
+
+
+🌙 TUESDAY EVENING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 02 – Judging Whether Work Has Truly Been Completed*
+
+*Chapter 02 – Defining What Success Should Look Like*
+
+*Looking Back*
+
+This morning, we examined why defining success matters before beginning a task. A clear instruction can tell us what to do, but it may not fully explain what the work is supposed to achieve.
+
+When we understand the intended outcome, we can make better decisions about how to approach the task and how to evaluate its result. We also become less likely to accept something merely because it looks finished.
+
+*Thinking Together*
+
+Two people may receive the same task and produce very different results because they understand its purpose differently.
+
+Imagine being asked to prepare information for someone making an important decision. One person may concentrate on presenting as much information as possible. Another may first ask what decision needs to be made, what information matters most, and what uncertainty should be made clear.
+
+Both may produce useful work, but the second approach begins with a stronger understanding of what success means for the person who needs the result.
+
+This reminds us that good judgment begins before the final review. It begins when we clarify the purpose of the work rather than assuming that the requested activity fully describes the desired outcome.
+
+*Moving Forward*
+
+As we delegate more activities to AI, defining success can help us remain responsible for the direction and purpose of the work without needing to perform every step ourselves.
+
+Tomorrow, we will make those expectations more specific by identifying essential requirements and deciding what evidence would make a completed result acceptable.
+
+*Learn • Think • Verify • Adapt*
