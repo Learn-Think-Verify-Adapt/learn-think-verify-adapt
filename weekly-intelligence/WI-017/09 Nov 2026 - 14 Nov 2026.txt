@@ -130,3 +130,71 @@ As we delegate more activities to AI, defining success can help us remain respon
 Tomorrow, we will make those expectations more specific by identifying essential requirements and deciding what evidence would make a completed result acceptable.
 
 *Learn • Think • Verify • Adapt*
+
+
+🌅 WEDNESDAY MORNING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 02 – Judging Whether Work Has Truly Been Completed*
+
+*Chapter 03 – Establishing Requirements and Acceptance Criteria*
+
+*Understanding*
+
+Yesterday, we learned to define what success should look like before beginning a task. But even when the goal is clear, we may still disagree about whether the finished work is acceptable. To make that judgment more reliable, we need to identify the requirements that must be satisfied.
+
+A requirement describes something the work needs to include, respect, or achieve. An acceptance criterion gives us a way to determine whether that requirement has been met. Together, they help us move from a general expectation to something we can actually examine.
+
+Consider asking AI to prepare a study plan for an examination. We may define success as helping a learner prepare effectively within the time available. But the plan also needs to respect the examination date, available study hours, important subjects, and areas where the learner needs additional practice. Without these requirements, even a well-presented timetable may fail to serve its purpose.
+
+*Practice*
+
+Choose a task you want to complete or delegate today. Begin by stating its intended outcome in one sentence.
+
+Next, identify three requirements that the result must satisfy. For each requirement, write a simple question that would help you check whether it has been met.
+
+For example, if the task is to prepare a study plan, one requirement might be that the schedule fits the learner's available time. The corresponding acceptance question would be: Can the learner realistically complete the planned activities within those hours?
+
+Try to distinguish essential requirements from preferences. A result may look different from what we imagined while still being acceptable, but it should not overlook something necessary for achieving its purpose.
+
+*Looking Ahead*
+
+Clear requirements and acceptance criteria help us communicate expectations before work begins and evaluate results more consistently afterwards.
+
+Tomorrow, we will explore the next challenge: examining the actual evidence of completed work. A requirement may be clearly stated, but we still need a reliable way to determine whether it has truly been satisfied.
+
+*Learn • Think • Verify • Adapt*
+
+
+🌙 WEDNESDAY EVENING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 02 – Judging Whether Work Has Truly Been Completed*
+
+*Chapter 03 – Establishing Requirements and Acceptance Criteria*
+
+*Looking Back*
+
+This morning, we explored how to turn a desired outcome into requirements that can guide our work and acceptance criteria that help us judge the result.
+
+Defining success tells us what we are trying to achieve. Requirements make that expectation more specific. Acceptance criteria help us determine whether the important conditions have actually been met.
+
+These distinctions matter because a finished result may satisfy some expectations while overlooking others that are essential.
+
+*Thinking Together*
+
+Imagine two people reviewing the same completed project. One says the work looks good and should be accepted. The other notices that an important requirement has not been fulfilled.
+
+Without clear acceptance criteria, their disagreement may depend largely on personal impressions. But when expectations were established beforehand, both can examine the result against the same standard.
+
+This does not mean every decision can be reduced to a checklist. Some outcomes require interpretation, context, and human judgment. Clear criteria do not replace that judgment; they give it a more reliable foundation.
+
+*Moving Forward*
+
+As AI performs more complex tasks, we can improve the way we delegate work by communicating not only what should be produced, but also what conditions the result must satisfy.
+
+Tomorrow, we will move from defining those conditions to examining the evidence. We will ask how we can know whether a requirement has actually been met rather than accepting a statement of completion at face value.
+
+*Learn • Think • Verify • Adapt*
