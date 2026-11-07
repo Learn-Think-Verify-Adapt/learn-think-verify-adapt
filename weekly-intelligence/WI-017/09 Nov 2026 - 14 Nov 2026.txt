@@ -198,3 +198,77 @@ As AI performs more complex tasks, we can improve the way we delegate work by co
 Tomorrow, we will move from defining those conditions to examining the evidence. We will ask how we can know whether a requirement has actually been met rather than accepting a statement of completion at face value.
 
 *Learn • Think • Verify • Adapt*
+
+
+🌅 THURSDAY MORNING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 02 – Judging Whether Work Has Truly Been Completed*
+
+*Chapter 04 – Examining Evidence of Completed Work*
+
+*Understanding*
+
+Yesterday, we learned how requirements and acceptance criteria help us describe what a successful result must satisfy. Today, we explore how to determine whether those conditions have actually been met.
+
+When someone tells us that a task is complete, we may naturally trust the statement, especially when the finished work looks convincing. But a statement of completion is not the same as evidence that the intended outcome has been achieved.
+
+Consider asking AI to compare educational institutions. It may return a detailed comparison containing fees, courses, facilities, and recommendations. The result may appear thorough, but how do we know that the information is accurate, current, and relevant to the learner's needs?
+
+We can examine the sources, check important facts, compare the recommendations against the original requirements, and identify any details that remain unconfirmed. Evidence helps us distinguish between a result that appears satisfactory and one we have good reasons to accept.
+
+*Practice*
+
+Choose one completed task, whether produced by yourself, another person, or an AI system.
+
+Identify one important claim about its success. For example, the claim might be that a calculation is correct, a report contains accurate information, or a proposed solution meets the stated requirements.
+
+Now ask: What evidence supports this claim?
+
+Look for something you can examine directly, such as a calculation you can reproduce, a reliable source you can check, a test result, or a comparison against an agreed requirement.
+
+If the evidence is insufficient, do not immediately assume the work is wrong. Instead, identify what additional verification would help you make a better judgment.
+
+*Looking Ahead*
+
+Examining evidence allows us to move beyond simply accepting that work has been completed. It helps us understand why a result should or should not be trusted.
+
+Tomorrow, we will explore what happens when the evidence is incomplete, when important uncertainties remain, or when the work introduces risks that cannot be ignored.
+
+*Learn • Think • Verify • Adapt*
+
+
+🌙 THURSDAY EVENING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 02 – Judging Whether Work Has Truly Been Completed*
+
+*Chapter 04 – Examining Evidence of Completed Work*
+
+*Looking Back*
+
+This morning, we explored why evidence matters when deciding whether work has been completed successfully.
+
+A finished document, a confident explanation, or a message stating that a task is complete can tell us what has been produced. But these alone may not establish that the intended outcome has been achieved.
+
+Evidence allows us to examine the result more carefully and connect our judgment to something that can be checked.
+
+*Thinking Together*
+
+Imagine an AI system reporting that it has identified and corrected a software problem. It may provide a description of the issue and a proposed fix.
+
+But identifying the problem, suggesting a correction, and demonstrating that the correction works safely are different achievements. A proposed fix may still require testing, review, or further investigation before it can be accepted.
+
+The same principle applies beyond software. A financial calculation may need to be checked against its underlying figures. A scientific conclusion may need to be supported by experimental results. A recommendation may need to be compared with the person's actual requirements.
+
+The kind of evidence we need depends on the task and the consequences of getting it wrong.
+
+*Moving Forward*
+
+Responsible judgment does not require us to distrust every result. It requires us to understand what evidence is appropriate and whether that evidence is strong enough to support the conclusion.
+
+Tomorrow, we will examine how to recognise missing information, unresolved uncertainty, and risks that may prevent us from declaring work complete.
+
+*Learn • Think • Verify • Adapt*
