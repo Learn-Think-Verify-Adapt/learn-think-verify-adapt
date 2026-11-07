@@ -348,3 +348,79 @@ As AI systems become more capable of performing complex work, we will increasing
 Tomorrow, we will bring these ideas together by making a responsible completion decision based on purpose, requirements, evidence, and unresolved risks.
 
 *Learn • Think • Verify • Adapt*
+
+
+🌅 SATURDAY MORNING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 02 – Judging Whether Work Has Truly Been Completed*
+
+*Chapter 06 – Making Responsible Completion Decisions*
+
+*Understanding*
+
+This week, we have explored five connected steps in judging completed work: distinguishing activity from outcome, defining success, establishing requirements, examining evidence, and recognising uncertainty. Today, we bring these steps together by learning to make a responsible completion decision.
+
+When work is presented as finished, we do not have to choose only between accepting it completely and rejecting it entirely. We can decide that the outcome has been achieved, request corrections where requirements remain unmet, or recognise that more information is needed before a final decision is possible.
+
+Consider an AI assistant asked to prepare recommendations for an important decision. The assistant may complete every requested step and present a convincing result. But responsible acceptance depends on whether the recommendations satisfy the original purpose, meet essential requirements, rely on sufficient evidence, and address uncertainties that could affect the decision.
+
+Making a completion decision therefore involves more than checking whether the work exists. It involves understanding what the result means and being able to explain why it should be accepted or what still needs to happen.
+
+*Practice*
+
+Choose one completed task from this week, whether performed independently or with AI assistance.
+
+Review it using the questions we have developed: What was the intended outcome? What requirements had to be satisfied? What evidence demonstrates that they were met? What important uncertainties or risks remain?
+
+Then make one of three decisions: accept the work as complete, request specific corrections, or keep the task open until essential information becomes available.
+
+Write a short explanation of your decision. If you cannot yet accept the result, identify the next action that would help move the task toward successful completion.
+
+The purpose is not to find fault with every result. It is to practise making decisions that are supported by reasons rather than appearances.
+
+*Looking Ahead*
+
+As AI becomes capable of carrying out increasingly complex activities, our responsibility does not disappear when we delegate the work. We still need to understand what success means, recognise the evidence that supports it, and decide when an outcome is ready to be accepted.
+
+The more capable our tools become, the more valuable it is to develop the judgment needed to use their results responsibly.
+
+*Learn • Think • Verify • Adapt*
+
+
+🌙 SATURDAY EVENING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 02 – Judging Whether Work Has Truly Been Completed*
+
+*Chapter 06 – Making Responsible Completion Decisions*
+
+*Looking Back*
+
+Across this week, we moved through six connected steps: recognising the difference between completing activities and achieving outcomes, defining success, establishing acceptance criteria, examining evidence, identifying unresolved risks, and making a responsible completion decision.
+
+Together, these steps form a practical approach to outcome judgment. They help us evaluate work according to its purpose rather than its appearance, speed, or the confidence with which it is presented.
+
+*Thinking Together*
+
+Imagine an AI system that successfully follows every instruction, operates the required tools, and produces a polished final result. It reports that the task has been completed.
+
+But suppose the result does not fully address the need that originally motivated the task.
+
+Has the AI failed to follow instructions? Not necessarily. Has useful work been performed? Possibly. But has the intended outcome been achieved? That question still requires examination.
+
+This is why the ability to judge completion matters. Instructions, activities, and outputs are important, but they do not always capture everything that makes work meaningful or successful.
+
+Human judgment helps connect what was done with what was actually needed.
+
+*Moving Forward*
+
+The growing capabilities of AI give us opportunities to accomplish work that once required much more time and effort. But greater automation also makes it important to preserve clarity about purpose, evidence, responsibility, and acceptance.
+
+We can delegate tasks without surrendering the responsibility to understand their outcomes. We can welcome useful results while recognising when corrections, verification, or further decisions are necessary.
+
+The question we carry forward is not only whether AI can complete the work, but whether we can thoughtfully determine when the work is truly done.
+
+*Learn • Think • Verify • Adapt*
