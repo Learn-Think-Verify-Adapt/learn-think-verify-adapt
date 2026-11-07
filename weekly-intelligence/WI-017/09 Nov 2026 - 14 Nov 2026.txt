@@ -272,3 +272,79 @@ Responsible judgment does not require us to distrust every result. It requires u
 Tomorrow, we will examine how to recognise missing information, unresolved uncertainty, and risks that may prevent us from declaring work complete.
 
 *Learn • Think • Verify • Adapt*
+
+
+🌅 FRIDAY MORNING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 02 – Judging Whether Work Has Truly Been Completed*
+
+*Chapter 05 – Recognising Gaps, Uncertainty, and Unresolved Risks*
+
+*Understanding*
+
+Throughout this week, we have learned to distinguish task completion from successful outcomes, define what success means, establish acceptance criteria, and examine evidence. Today, we consider what happens when the evidence does not fully support a conclusion.
+
+A task may appear nearly complete while still containing missing information, uncertain assumptions, or unresolved risks. These are not always obvious mistakes. Sometimes the available evidence is simply insufficient to determine whether the intended outcome has been achieved.
+
+Consider asking AI to recommend a course of study. It may identify suitable programmes and explain their benefits. But what if current admission requirements have not been confirmed, the learner's financial constraints are unclear, or an important eligibility condition remains unknown? The recommendations may still be useful, but treating them as final could lead to a poor decision.
+
+Recognising uncertainty does not mean rejecting everything that is incomplete. It means understanding what remains unknown, why it matters, and whether further action is necessary before accepting the result.
+
+*Practice*
+
+Choose a completed task or recommendation that you have recently reviewed.
+
+Identify one piece of information that may be missing, one assumption that has not been confirmed, and one possible consequence if the result turns out to be incorrect.
+
+Then consider which of these concerns genuinely matters to the intended outcome. Some gaps may be minor, while others could prevent the work from being accepted responsibly.
+
+Decide what you would do next. Would you verify a fact, ask a clarifying question, revise part of the work, or delay the final decision until essential evidence becomes available?
+
+The goal is to practise recognising uncertainty without confusing it with failure.
+
+*Looking Ahead*
+
+A responsible decision does not always mean declaring that the work is finished. Sometimes the right outcome is to identify what remains unresolved and explain what needs to happen next.
+
+Tomorrow, we will bring the week's learning together by practising how to make and justify a final completion decision, including when to accept work, request corrections, or keep a task open.
+
+*Learn • Think • Verify • Adapt*
+
+
+🌙 FRIDAY EVENING
+
+*Learning Path 05 – Independent Learning*
+
+*Module 02 – Judging Whether Work Has Truly Been Completed*
+
+*Chapter 05 – Recognising Gaps, Uncertainty, and Unresolved Risks*
+
+*Looking Back*
+
+This morning, we examined why recognising missing information, uncertain assumptions, and unresolved risks is essential when judging completed work.
+
+A result can be valuable without being ready for final acceptance. Understanding this distinction helps us avoid two extremes: trusting every confident conclusion or rejecting useful work simply because some uncertainty remains.
+
+The important question is whether the remaining uncertainty affects the purpose, reliability, or consequences of the result.
+
+*Thinking Together*
+
+Imagine an AI assistant has prepared a financial comparison for an important purchase. Most calculations are correct, the options are clearly presented, and the recommendation appears reasonable.
+
+However, one important cost has not been confirmed.
+
+Should the entire task be considered unsuccessful? Should the recommendation be accepted because most of the work is correct? Or should the result be treated as useful but incomplete until that cost is verified?
+
+The answer depends on how important the missing information is to the decision. If it could substantially change the recommendation, accepting the result without further checking may be irresponsible.
+
+This illustrates an important part of human judgment: we must understand not only what is known, but also what remains uncertain and how that uncertainty affects the next decision.
+
+*Moving Forward*
+
+As AI systems become more capable of performing complex work, we will increasingly need to distinguish between progress, provisional results, and genuinely completed outcomes.
+
+Tomorrow, we will bring these ideas together by making a responsible completion decision based on purpose, requirements, evidence, and unresolved risks.
+
+*Learn • Think • Verify • Adapt*
